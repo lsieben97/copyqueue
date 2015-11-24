@@ -1,0 +1,15 @@
+D:\vs\projecten\CopyQueue\CopyQueue\bin\Debug\CopyQueue.exe
+D:\vs\projecten\CopyQueue\CopyQueue\bin\Debug\CopyQueue.pdb
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.csprojResolveAssemblyReference.cache
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.Form1.resources
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.Properties.Resources.resources
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.csproj.GenerateResource.Cache
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.exe
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.pdb
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.viewer.resources
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.Selector.resources
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.helpform.resources
+D:\vs\projecten\CopyQueue\CopyQueue\bin\Debug\CopyQueue.exe.manifest
+D:\vs\projecten\CopyQueue\CopyQueue\bin\Debug\CopyQueue.application
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.exe.manifest
+D:\vs\projecten\CopyQueue\CopyQueue\obj\Debug\CopyQueue.application
